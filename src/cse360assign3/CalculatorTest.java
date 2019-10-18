@@ -4,6 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
+
 public class CalculatorTest {
    public static void main(String[] args) {
 	   AddingMachine bb = new AddingMachine();

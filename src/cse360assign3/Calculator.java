@@ -3,7 +3,8 @@
 //class ID : 70642 Wednesday
 //Description: This is a program which for simple calculation with add, subtract, multiply and divide
 
-//URL: 
+//URL: https://github.com/zkhASU/Assignment3/blob/master/src/cse360assign3/Calculator.java
+
 
 package cse360assign3;
 
@@ -43,7 +44,7 @@ public class Calculator extends AddingMachine{
 		 }
 	  
 		 else {
-			total = Math.pow(total, a1)  ;
+			total =(int)Math.pow(total, a1)  ;
 			 
 		 }
 		 
